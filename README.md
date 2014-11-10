@@ -1,3 +1,3 @@
 android-ytplayer
 ================
-Test project ver. 1.1
+Test project ver. 1.2
